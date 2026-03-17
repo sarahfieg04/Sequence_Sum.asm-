@@ -4,6 +4,6 @@ How to run:
     - run
  
 Sample Run:
-    First number: 2
-    Length of the sequence: 5
-    Sum is: 20 
+    - First number: 2
+    - Length of the sequence: 5
+    - Sum is: 20 
